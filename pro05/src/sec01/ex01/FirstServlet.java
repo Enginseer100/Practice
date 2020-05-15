@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class FirstServlet  extends HttpServlet{ 
    public void init() throws ServletException {
-      System.out.println("init 메서드 호출1");
+      System.out.println("init 메서드 호출");
    }
 
    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws  ServletException, IOException {
