@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/member2")
+//@WebServlet("/member")
 public class MemberServlet extends HttpServlet {
 
 	public void init(ServletConfig config) throws ServletException {
