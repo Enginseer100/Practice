@@ -3,7 +3,7 @@ package sec04.ex02;
 import javax.servlet.annotation.WebListener;
 import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
-
+ 
 /**
  * Application Lifecycle Listener implementation class LoginImpl
  *
